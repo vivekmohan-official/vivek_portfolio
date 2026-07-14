@@ -3,4 +3,4 @@
 
 Connect Me [Linkedin](https://www.linkedin.com/in/vivekmohanofficial/)
 
-![Dashboard](Screenshot_2026-07-14_132842.png)
+![Dashboard](EPLDashboard.png)
